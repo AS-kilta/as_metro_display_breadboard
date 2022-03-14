@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "teensy_lib")(type "Legacy")(uri "${KIPRJMOD}/teensy_library/teensy.lib")(options "")(descr ""))
+  (lib (name "sn74s37n")(type "KiCad")(uri "${KIPRJMOD}/sn74s37n.kicad_sym")(options "")(descr ""))
+)
